@@ -16,7 +16,7 @@ Preparing for competitive exams can be tough. Solving tons of Multiple Choice Qu
 
 *To run this program, simply clone it and open MCQTeestApp\Debug\CQTestApp.exe*
 
-*To view/edit its source code, open MCQTestApp\src\MCQTestApp.cpp file with any Code Editor to run it.*
+*To view/edit its source code, open MCQTestApp\src\MCQTestApp.cpp file with any Code Editor.*
 
 **This project was made on Atom using gpp-compiler(plugin) and built with Eclipse.**
 
