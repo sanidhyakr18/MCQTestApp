@@ -14,7 +14,7 @@ Preparing for competitive exams can be tough. Solving tons of Multiple Choice Qu
 -> Handle Blunder Inputs With Ease
 
 
-*To run this program, simply clone it and open MCQTeestApp\Debug\CQTestApp.exe*
+*To run this program, simply clone it and open MCQTestApp\Debug\MCQTestApp.exe*
 
 *To view/edit its source code, open MCQTestApp\src\MCQTestApp.cpp file with any Code Editor.*
 
