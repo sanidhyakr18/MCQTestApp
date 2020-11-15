@@ -1,5 +1,5 @@
 # MCQTestApp
-Preparing for competitive exams can be tough. Solving tons of Multiple Choice Questions daily and then its checking & calculating your score can be inconvenient and exhausting. With this simple yet useful program, this tiring job can be done in a jiffy and provides a detailed Performance Report and many other features for enhanced user experience.
+Preparing for competitive exams can be challenging and tiring since you have to solve tons of MCQs daily. Furthermore, checking your performance and calculating your score after a rigorous session is an exhausting process. With this simple yet useful program, this tiring job can be done in a jiffy and provides a detailed Performance Report and many other features for enhanced user experience.
 
 **FEATURES:-**
 
