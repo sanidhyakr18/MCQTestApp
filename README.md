@@ -1,5 +1,5 @@
 # MCQTestApp
-Preparing for competitive exams can be challenging and tiring since you have to solve tons of MCQs daily. Furthermore, checking your performance and calculating your score after a rigorous session is an exhausting process. With this simple yet useful program, this tiring job can be done in a jiffy and provides a detailed Performance Report and many other features for enhanced user experience.
+This program is designed to aid those who are preparing for any MCQ based competitive exam. With this simple yet useful program, you can check and calculate your score and it also provides a detailed Performance Report and many other features for enhanced user experience.
 
 **FEATURES:-**
 
