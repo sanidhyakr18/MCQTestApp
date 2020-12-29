@@ -3,15 +3,15 @@ This program is designed to aid those who are preparing for any MCQ based compet
 
 **FEATURES:-**
 
--> Check And Calculate Marks
+- Check And Calculate Marks
 
--> Get Detailed Performance Report
+- Get Detailed Performance Report
 
--> Save Performance Report
+- Save Performance Report
 
--> Delete Performance Report
+- Delete Performance Report
 
--> Handle Blunder Inputs With Ease
+- Handle Blunder Inputs With Ease
 
 - Pagination for easy readability of large files
 
