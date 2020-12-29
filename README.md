@@ -13,6 +13,8 @@ This program is designed to aid those who are preparing for any MCQ based compet
 
 -> Handle Blunder Inputs With Ease
 
+- Pagination for easy readability of large files
+
 
 *To run this program, simply clone it and open MCQTestApp\Debug\MCQTestApp.exe*
 
